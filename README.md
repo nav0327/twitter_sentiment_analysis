@@ -14,3 +14,6 @@ cd <path>\kibana-5.6.8-windows-x86\kibana-5.6.8-windows-x86\bin
   <li> kibana</li>
 cd <path>\logstash-5.6.8\logstash-5.6.8
   <li> bin\logstash -f logstash-simple.conf</li>
+
+## A sample of the visualization
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
