@@ -16,4 +16,4 @@ cd <path>\logstash-5.6.8\logstash-5.6.8
   <li> bin\logstash -f logstash-simple.conf</li>
 
 ## A sample of the visualization
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/nav0327/twitter_sentiment_analysis/kafka_chart.PNG)
